@@ -6,7 +6,7 @@
   "observability": { "enabled": true },
   "browser": { "binding": "BROWSER" },
   "kv_namespaces": [
-    { "binding": "CONFIRM_LOG", "id": "REPLACE_WITH_KV_NAMESPACE_ID" }
+    { "binding": "CONFIRM_LOG", "id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6" }
   ],
   "vars": {
     "FORWARD_TO": "you@gmail.com",
