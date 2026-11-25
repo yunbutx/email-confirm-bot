@@ -6,7 +6,7 @@
   "observability": { "enabled": true },
   "browser": { "binding": "BROWSER" },
   "kv_namespaces": [
-    { "binding": "CONFIRM_LOG", "id": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6" }
+    { "binding": "CONFIRM_LOG", "id": "3a25131c91584f47bb207909370f7f0c" }
   ],
   "vars": {
     "FORWARD_TO": "1041159627@qq.com",
